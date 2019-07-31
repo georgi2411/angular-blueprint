@@ -1,7 +1,7 @@
 ---
 name: Create Iteration Plan
 about: Iteration Plan template, which is used for release planning.
-title: ''
+title: 'Iteration Plan - '
 labels: 'iteration'
 assignees: ''
 
